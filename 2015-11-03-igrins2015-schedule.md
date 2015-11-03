@@ -209,3 +209,193 @@ and the Impossible</td>
 </table>
 
 
+<table>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Friday</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Session 3: Interstellar Medium</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>10:00 AM</td>
+    <td>10:15 AM</td>
+    <td>Kyle</td>
+    <td>Probing the physics of excited molecular hydrogen gas with IGRINS</td>
+  </tr>
+  <tr>
+    <td>10:15 AM</td>
+    <td>10:30 AM</td>
+    <td>Rodolfo</td>
+    <td>NIR Emission from Planetary Nebulae</td>
+  </tr>
+  <tr>
+    <td>10:30 AM</td>
+    <td>10:45 AM</td>
+    <td>Hwihyun</td>
+    <td>Kinematic Study of Ionized and Molecular Gas in Monoceros R2</td>
+  </tr>
+  <tr>
+    <td>10:45 AM</td>
+    <td>11:00 AM</td>
+    <td>Yesol</td>
+    <td>IGRINS Observation of [Fe II] line Source G25.8+0.2 in the UWIFE survey</td>
+  </tr>
+  <tr>
+    <td>11:00 AM</td>
+    <td>11:15 AM</td>
+    <td>Yong-Hyun</td>
+    <td>"[Fe II]-H2 reversal" in Supernova Remnants</td>
+  </tr>
+  <tr>
+    <td>11:15 AM</td>
+    <td>11:30 AM</td>
+    <td>Soojong</td>
+    <td>Star Formation in External Galaxies</td>
+  </tr>
+  <tr>
+    <td>11:30 AM</td>
+    <td>11:45 AM</td>
+    <td>Huynh Anh N.</td>
+    <td>High-resolution spectroscopy of NGC 7023</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Lunch 11:45-2:00</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Plenary Talk #3</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2:00 PM</td>
+    <td>2:30 PM</td>
+    <td>Nils</td>
+    <td>Infrared Stellar Spectroscopy and Analysis</td>
+  </tr>
+  <tr>
+    <td>Session 4: Stellar Astrophysics</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2:30 PM</td>
+    <td>3:00 PM</td>
+    <td>Chris</td>
+    <td>IGRINS Spectroscopy of G-K Giants over a Large Metallicity Range</td>
+  </tr>
+  <tr>
+    <td>3:00 PM</td>
+    <td>3:15 PM</td>
+    <td>Sunkyung</td>
+    <td>IGRINS Spectral Library</td>
+  </tr>
+  <tr>
+    <td>3:15 PM</td>
+    <td>3:30 PM</td>
+    <td>Keun-Hong</td>
+    <td>The Study of exoplanetary Atmosphere with IGRINS</td>
+  </tr>
+  <tr>
+    <td>3:30 PM</td>
+    <td>4:00 PM</td>
+    <td>Break</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Plenary Talk #4</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>4:00 PM</td>
+    <td>4:30 PM</td>
+    <td>Greg</td>
+    <td>Photospheres of young stars</td>
+  </tr>
+  <tr>
+    <td>Session 4: Stellar Astrophysics -- cont.</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>4:30 PM</td>
+    <td>4:45 PM</td>
+    <td>Natalie</td>
+    <td>Constraining Blue Straggler Formation and Triple Star Processes in M67 with IGRINS</td>
+  </tr>
+  <tr>
+    <td>4:45 PM</td>
+    <td>5:00 PM</td>
+    <td>Gregory</td>
+    <td>Stellar Radial Velocities with IGRINS</td>
+  </tr>
+  <tr>
+    <td>5:00 PM</td>
+    <td>5:15 PM</td>
+    <td>Hyun-Jeong</td>
+    <td>IGRINS Observations of Galactic Luminous Blue Variables</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Summary</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>5:15 PM</td>
+    <td>5:30 PM</td>
+    <td></td>
+    <td>Summary Talk</td>
+  </tr>
+</table>
+
+
