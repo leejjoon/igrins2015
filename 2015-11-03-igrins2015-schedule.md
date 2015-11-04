@@ -83,14 +83,14 @@ and the Impossible</td>
   <tr>
     <td>11:30 AM</td>
     <td>11:45 AM</td>
-    <td>Dan</td>
-    <td>GMTNIRS</td>
+    <td>Kyle</td>
+    <td>Tool for 2-D analysis of IGRINS Spectra</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>11:45 AM</td>
+    <td>12:00 PM</td>
+    <td>Dan</td>
+    <td>GMTNIRS</td>
   </tr>
   <tr>
     <td></td>
@@ -236,43 +236,43 @@ and the Impossible</td>
   </tr>
   <tr>
     <td>10:00 AM</td>
-    <td>10:15 AM</td>
+    <td>10:30 AM</td>
     <td>Kyle</td>
     <td>Probing the physics of excited molecular hydrogen gas with IGRINS</td>
   </tr>
   <tr>
-    <td>10:15 AM</td>
     <td>10:30 AM</td>
+    <td>10:45 AM</td>
     <td>Rodolfo</td>
     <td>NIR Emission from Planetary Nebulae</td>
   </tr>
   <tr>
-    <td>10:30 AM</td>
     <td>10:45 AM</td>
+    <td>11:00 AM</td>
     <td>Hwihyun</td>
     <td>Kinematic Study of Ionized and Molecular Gas in Monoceros R2</td>
   </tr>
   <tr>
-    <td>10:45 AM</td>
     <td>11:00 AM</td>
+    <td>11:15 AM</td>
     <td>Yesol</td>
     <td>IGRINS Observation of [Fe II] line Source G25.8+0.2 in the UWIFE survey</td>
   </tr>
   <tr>
-    <td>11:00 AM</td>
     <td>11:15 AM</td>
+    <td>11:30 AM</td>
     <td>Yong-Hyun</td>
     <td>"[Fe II]-H2 reversal" in Supernova Remnants</td>
   </tr>
   <tr>
-    <td>11:15 AM</td>
     <td>11:30 AM</td>
+    <td>11:45 AM</td>
     <td>Soojong</td>
     <td>Star Formation in External Galaxies</td>
   </tr>
   <tr>
-    <td>11:30 AM</td>
     <td>11:45 AM</td>
+    <td>12:00 PM</td>
     <td>Huynh Anh N.</td>
     <td>High-resolution spectroscopy of NGC 7023</td>
   </tr>
